@@ -1,0 +1,6 @@
+- [system design prime](https://github.com/donnemartin/system-design-primer)
+- [system design and architecture](https://github.com/puncsky/system-design-and-architecture)
+- [cyc notes](https://github.com/CyC2018/CS-Notes/)
+- [tech interview runbook](https://github.com/yangshun/tech-interview-handbook)
+- [system design interview](https://github.com/checkcheckzz/system-design-interview)
+- [system design](https://github.com/shashank88/system_design)
